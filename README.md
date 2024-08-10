@@ -35,7 +35,7 @@ We value your input and are here to help with any inquiries you may have.
 
 
 Clone the Repository:
-git clone https://github.com/yourusername/spiderman-no-way-home-website.git
+git clone https://github.com/Mayuresh28/spiderman-no-way-home-website.git
 
 Navigate to the Project Directory:
 cd spiderman-no-way-home-website
